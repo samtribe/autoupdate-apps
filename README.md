@@ -1,1 +1,1 @@
-# autoupdate-intune-apps
+# autoupdate-apps
